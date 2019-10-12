@@ -1,0 +1,59 @@
+baseURL: https://recepten.rmhogervorst.nl
+disablePathToLower: true
+languageCode: nl-nl
+title: Mijn recepten
+theme: gochowdown
+googleAnalytics:
+defaultcontentlanguage: nl
+paginate: 20
+canonifyurls: true
+pygmentsstyle: monokai
+pygmentscodefences: true
+pygmentscodefencesguesssyntax: true
+pygmentsOptions: "linenos=table"
+permalinks:
+  posts: /posts/:year/:month/:title
+params:
+  author: R. H
+  description: Recepten gebruikt door ons
+  keywords: 'recipes'
+  favicon_32: /images/favicon-32x32.png
+  favicon_16: /images/favicon-16x16.png
+  footercontent:
+  hidecredits: true
+  hidecopyright: false
+  showNavTitle: false            # Boolean: show site title in nav bar
+  custom_css:
+    - style.css
+menu:
+  main:
+    - name: Home
+      weight: 1
+      url: /
+    - name: Categorie
+      weight: 2
+      url: /category/
+    - name: Keuken
+      weight: 3
+      url: /cuisine/
+    - name: Tags
+      weight: 4
+      url: /tags/
+    - name: Weekmenus
+      weight: 5
+      url: /weeks/
+    - name: Ingredienten
+      weight: 6
+      url: /ingredients/
+
+taxonomies:
+  category: category
+  cusine: cuisine
+  tag: tags
+  ingredient: ingredients
+  week: weeks
+  diet: diets
+
+# Diet specifics, ingredients that should not be in there
+diets:
+  paraberk: [appel, kers, kiwi, tomaat]

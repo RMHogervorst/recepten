@@ -1,0 +1,5 @@
+<div class="categories">
+  <p class="clearfix">Week:
+    <a href="{{ ( printf "weeks/%s/" ( . | urlize ) ) | relLangURL }}"><span itemprop="week">{{ . | humanize }}</span></a>
+  </p>
+</div>
