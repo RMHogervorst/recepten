@@ -3,8 +3,8 @@ layout: recipe
 date: 2019-09-13T20:44:30+02:00
 draft: false
 title:  "Pijnboompitten Roosteren" # The title of your awesome recipe
-image:  # Name of image in recipe bundle
-imagecredit:  # URL to image source page, website, or creator
+image:  pijnboompitten.jpg
+imagecredit:  https://noten.nl/product/pijnboompitten/ 
 YouTubeID:  # The F2SYDXV1W1w part of https://www.youtube.com/watch?v=F2SYDXV1W1w
 authorName: # Name of the recipe/article author
 authorURL: # URL of their home website

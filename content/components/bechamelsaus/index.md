@@ -3,8 +3,8 @@ layout: recipe
 date: 2019-09-13T20:21:10+02:00
 draft: false
 title:  "Bechamelsaus (met knoflook)"
-image:  # Name of image in recipe bundle
-imagecredit:  # URL to image source page, website, or creator
+image:  bechamel.jpeg
+imagecredit:  https://www.thekitchn.com/how-to-make-a-bchamel-sauce-wh-132035
 YouTubeID:  # The F2SYDXV1W1w part of https://www.youtube.com/watch?v=F2SYDXV1W1w
 authorName: # Name of the recipe/article author
 authorURL: https://www.ah.nl

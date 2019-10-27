@@ -3,8 +3,8 @@ layout: recipe
 date: 2019-09-14T09:51:45+02:00
 draft: false
 title:  "Wortels Koken" # The title of your awesome recipe
-image:  # Name of image in recipe bundle
-imagecredit:  # URL to image source page, website, or creator
+image:  wortels.jpg
+imagecredit:  https://groentegroente.nl/groentes/wortels-koken/
 YouTubeID:  # The F2SYDXV1W1w part of https://www.youtube.com/watch?v=F2SYDXV1W1w
 authorName: # Name of the recipe/article author
 authorURL: # URL of their home website

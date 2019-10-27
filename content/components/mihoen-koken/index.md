@@ -3,8 +3,8 @@ layout: recipe
 date: 2019-09-14T09:53:25+02:00
 draft: false
 title:  "Mihoen Koken" # The title of your awesome recipe
-image:  # Name of image in recipe bundle
-imagecredit:  # URL to image source page, website, or creator
+image:  mihoen.jpg
+imagecredit:  https://uitpaulineskeuken.nl/2014/02/basics-6-pasta-en-meelspijzen-bereiden.html
 YouTubeID:  # The F2SYDXV1W1w part of https://www.youtube.com/watch?v=F2SYDXV1W1w
 authorName: # Name of the recipe/article author
 authorURL: # URL of their home website

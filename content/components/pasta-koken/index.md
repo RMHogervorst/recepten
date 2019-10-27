@@ -3,8 +3,8 @@ layout: recipe
 date: 2019-09-13T20:55:12+02:00
 draft: false
 title:  "Pasta Koken" # The title of your awesome recipe
-image:  # Name of image in recipe bundle
-imagecredit:  # URL to image source page, website, or creator
+image:  penne.jpg
+imagecredit:  Roel M. Hogervorst 2019-10-27
 YouTubeID:  # The F2SYDXV1W1w part of https://www.youtube.com/watch?v=F2SYDXV1W1w
 authorName: # Name of the recipe/article author
 authorURL: # URL of their home website
