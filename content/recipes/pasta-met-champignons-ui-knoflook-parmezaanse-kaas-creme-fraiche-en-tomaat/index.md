@@ -4,8 +4,8 @@ layout: recipe
 date: 2019-09-14T15:14:55+02:00
 draft: false
 title:  "Pasta Met Champignons Ui Knoflook Parmezaanse Kaas Creme Fraiche en Tomaat" # The title of your awesome recipe
-image:  # Name of image in recipe bundle
-imagecredit:  # URL to image source page, website, or creator
+image: champignons.jpg
+imagecredit:  https://www.culy.nl/wp-content/uploads/2013/08/IMG_1166-1536x542.jpg
 YouTubeID:  # The F2SYDXV1W1w part of https://www.youtube.com/watch?v=F2SYDXV1W1w
 authorName: # Name of the recipe/article author
 authorURL: # URL of their home website

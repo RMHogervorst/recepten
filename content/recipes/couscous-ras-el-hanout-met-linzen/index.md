@@ -4,15 +4,15 @@ layout: recipe
 date: 2019-09-24T20:38:54+02:00
 draft: false
 title:  "Couscous Ras El Hanout Met Linzen" # The title of your awesome recipe
-image:  # Name of image in recipe bundle
-imagecredit:  # URL to image source page, website, or creator
+image:  couscous_generic.jpg
+imagecredit:  https://pixabay.com/photos/couscous-porridge-barley-727492/
 YouTubeID:  # The F2SYDXV1W1w part of https://www.youtube.com/watch?v=F2SYDXV1W1w
 authorName: # Name of the recipe/article author
 authorURL: # URL of their home website
 sourceName: # Name of the source website
 sourceURL: # Actual URL of the recipe itself
-category: # The type of meal or course your recipe is about. For example: "dinner", "entree", or "dessert".
-cuisine: # The region associated with your recipe. For example, "French", Mediterranean", or "American".
+category: diner # The type of meal or course your recipe is about. For example: "dinner", "entree", or "dessert".
+cuisine: Marrokaans # The region associated with your recipe. For example, "French", Mediterranean", or "American".
 
 tags: # You don't have to have 3, feel free to have 10, 1, or none
   - vegetarisch

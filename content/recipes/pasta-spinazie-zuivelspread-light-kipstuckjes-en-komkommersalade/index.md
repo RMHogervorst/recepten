@@ -4,8 +4,8 @@ layout: recipe
 date: 2019-09-14T15:18:02+02:00
 draft: false
 title:  "Pasta Spinazie Zuivelspread Light Kipstuckjes en Komkommersalade" # The title of your awesome recipe
-image:  # Name of image in recipe bundle
-imagecredit:  # URL to image source page, website, or creator
+image:  spinach.jpg
+imagecredit:  https://unsplash.com/photos/305oetSYi6o
 YouTubeID:  # The F2SYDXV1W1w part of https://www.youtube.com/watch?v=F2SYDXV1W1w
 authorName: # Name of the recipe/article author
 authorURL: # URL of their home website

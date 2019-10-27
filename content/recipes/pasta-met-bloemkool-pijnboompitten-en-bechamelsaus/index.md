@@ -4,8 +4,8 @@ layout: recipe
 date: 2019-09-13T21:06:09+02:00
 draft: false
 title:  "Pasta Met Bloemkool Pijnboompitten en Bechamelsaus" # The title of your awesome recipe
-image:  # Name of image in recipe bundle
-imagecredit:  # URL to image source page, website, or creator
+image:  bechamelsaus.jpg
+imagecredit:  https://www.gette.org/photos/producten/2014/n-bechamelsaus-witte-saus-of-melksaus-868-1.jpg
 YouTubeID:  # The F2SYDXV1W1w part of https://www.youtube.com/watch?v=F2SYDXV1W1w
 authorName: # Name of the recipe/article author
 authorURL: # URL of their home website
