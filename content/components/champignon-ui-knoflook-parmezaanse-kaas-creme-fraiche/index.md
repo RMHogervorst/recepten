@@ -16,7 +16,7 @@ ingredients:
   - champignon
   - ui
   - knoflook
-  - Parmezaanse Kaas
+  - parmezaanse kaas
   - creme fraiche
 
 tags: # You don't have to have 3, feel free to have 10, 1, or none

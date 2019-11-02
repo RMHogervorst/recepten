@@ -1,7 +1,7 @@
 ---
 layout: recipe
 date: 2019-09-14T09:52:53+02:00
-draft: true
+draft: false
 title:  "Couscous Klaarmaken Koud" # The title of your awesome recipe
 image:  couscous.jpg
 imagecredit:  Roel M. Hogervorst 2019-10-27
@@ -9,18 +9,20 @@ YouTubeID:  # The F2SYDXV1W1w part of https://www.youtube.com/watch?v=F2SYDXV1W1
 authorName: # Name of the recipe/article author
 authorURL: # URL of their home website
 sourceName: # Name of the source website
-sourceURL: # Actual URL of the recipe itself
+sourceURL: https://www.smulweb.nl/recepten/1057668/Couscoussalade
 category: # The type of meal or course your recipe is about. For example: "dinner", "entree", or "dessert".
 cuisine: # The region associated with your recipe. For example, "French", Mediterranean", or "American".
 ingredients:
   - couscous
+  - citroensap
+
 tags: # You don't have to have 3, feel free to have 10, 1, or none
   - vegetarisch
   - histamine-arm
   -
-aantal_personen: 8
-prepTime: 15
-cookTime: 45
+aantal_personen: 2
+prepTime: 10
+cookTime: 3
 
 voedingswaarden:
   - per: portie
@@ -34,11 +36,15 @@ voedingswaarden:
 
 
 ingredienten:
-- 1 ui
-- 1 knoflook
+- couscous
+- citroensap
+- olijfolie
+- peper zout
 
 directions:
-- Smelt de boter in een steelpan met dikke bodem op laag vuur. Meng er de bloem door en laat op laag vuur 3 min. garen.
+- Vermeng de couscous met het citroensap,
+- een paar eetlepels olijfolie en zout en peper.
+- Roer er dan het water door en laat wellen.
 ---
 
-Beschrijving
+Maak de couscous voor de verandering eens koud klaar.

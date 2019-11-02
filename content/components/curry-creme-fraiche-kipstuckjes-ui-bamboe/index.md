@@ -10,7 +10,7 @@ authorName: # Name of the recipe/article author
 authorURL: # URL of their home website
 sourceName: # Name of the source website
 sourceURL: # Actual URL of the recipe itself
-category: Curry # The type of meal or course your recipe is about. For example: "dinner", "entree", or "dessert".
+category: curry # The type of meal or course your recipe is about. For example: "dinner", "entree", or "dessert".
 cuisine: # The region associated with your recipe. For example, "French", Mediterranean", or "American".
 ingredients:
   - currypasta
@@ -56,4 +56,4 @@ directions:
 
 ---
 
-Een curry waarbij we de kokosmelk vervangen door creme fraiche. 
+Een curry waarbij we de kokosmelk vervangen door creme fraiche.
