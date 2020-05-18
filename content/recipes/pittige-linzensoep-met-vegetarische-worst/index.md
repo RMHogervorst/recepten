@@ -8,7 +8,7 @@ imagecredit:  https://static.ah.nl/static/recepten/img_013404_1600x560_JPG.jpg
 YouTubeID:  # The F2SYDXV1W1w part of https://www.youtube.com/watch?v=F2SYDXV1W1w
 authorName: # Name of the recipe/article author
 authorURL: # URL of their home website
-sourceName: ah allerhande 
+sourceName: ah allerhande
 sourceURL: https://www.ah.nl/allerhande/recept/R-R420018/pittige-linzensoep-met-vegetarische-worst
 category: diner
 cuisine: # The region associated with your recipe. For example, "French", Mediterranean", or "American".
@@ -21,7 +21,7 @@ ingredients:
   - tortillacips
 tags: # You don't have to have 3, feel free to have 10, 1, or none
   - vegetarisch
-
+diets: 
 week: x
 
 aantal_personen: 4

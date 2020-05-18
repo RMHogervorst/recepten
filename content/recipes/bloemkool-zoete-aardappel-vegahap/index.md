@@ -13,7 +13,7 @@ sourceName: # Name of the source website
 sourceURL: # Actual URL of the recipe itself
 category: diner
 cuisine: # The region associated with your recipe. For example, "French", Mediterranean", or "American".
-
+diets:
 tags: # You don't have to have 3, feel free to have 10, 1, or none
   - vegetarisch
 

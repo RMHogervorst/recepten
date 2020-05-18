@@ -48,12 +48,12 @@ menu:
 
 taxonomies:
   category: category
-  cusine: cuisine
+  cuisine: cuisine
   tag: tags
   ingredient: ingredients
   week: weeks
   diet: diets
 
 # Diet specifics, ingredients that should not be in there
-diets:
+specialdiets:
   paraberk: [appel, kers, kiwi, tomaat]

@@ -24,7 +24,7 @@ tags: # You don't have to have 3, feel free to have 10, 1, or none
   - vegetarisch
 
 week: x
-
+diets: 
 aantal_personen: 4
 prepTime: 35
 cookTime: 20

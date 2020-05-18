@@ -16,7 +16,7 @@ cuisine: Marrokaans # The region associated with your recipe. For example, "Fren
 
 tags: # You don't have to have 3, feel free to have 10, 1, or none
   - vegetarisch
-
+diets: 
 week: x
 
 aantal_personen: 8

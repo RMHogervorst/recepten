@@ -27,7 +27,7 @@ tags: # You don't have to have 3, feel free to have 10, 1, or none
   - slank
   - salade
   - zomer
-
+diets: 
 week: g
 
 aantal_personen: 2
