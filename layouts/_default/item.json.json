@@ -1,0 +1,13 @@
+{
+  "title": "{{ .Title}}",
+  "ingredients": [ {{ range $i, $e := .Params.ingredients -}}
+      {{- if $i -}}, {{ end -}}
+     "{{ $e | humanize }}"
+      {{- end -}} ] ,
+  "cuisine": "{{ .Params.cuisine }}",
+  "tags": [ {{ range $i, $e := .Params.Tags -}}
+      {{- if $i -}}, {{ end -}}
+     "{{ $e | humanize }}"
+      {{- end -}} ],
+  "permalink" : "{{ .Permalink }}"
+}
