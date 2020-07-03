@@ -39,9 +39,6 @@ menu:
     - name: Tags
       weight: 4
       url: /tags/
-    - name: Weekmenus
-      weight: 5
-      url: /weeks/
     - name: Ingredienten
       weight: 6
       url: /ingredients/
