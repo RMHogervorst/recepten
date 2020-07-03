@@ -32,7 +32,7 @@ In elk recept staan:
 - ingredients: zet hier de ingredienten in enkelvoud en zonder aantallen: aardappel, kokosmelk
 - ingredienten: zet hier de hoeveelheden wel bij: 2 uien etc.
 - category: type recept, nu in het engels "dinner", "entree", or "dessert".
-- cuisine: keuken: Marrokaans, Italiaans, Spaans, Eigen
+- cuisine: keuken: Marrokaans, Italiaans, Spaans, Eigen (Zelfgemaakt), Fusion (mix van stijlen)
 - tags: Meestal  - vegetarisch, vaak - histamine-arm, - slank, - zomer, - soep, - curry
 - yield: (voor hoeveel personen, of hoeveelheden, wordt nu niet gebruikt)
 - prepTime: voorbereidings tijd in minuten, wordt nu onder beschrijving weergeven
