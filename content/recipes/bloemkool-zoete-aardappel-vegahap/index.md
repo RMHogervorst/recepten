@@ -16,7 +16,7 @@ cuisine: Nederlands # The region associated with your recipe. For example, Itali
 ingredients:
   - bloemkool
   - zoete aardappel
-  - vegetarische burger
+  - vega burger
 diets:
 tags: # You don't have to have 3, feel free to have 10, 1, or none
   - vegetarisch

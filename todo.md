@@ -1,8 +1,13 @@
 # Todo
 
 Creeer bot die zoekt of componenten wel bestaan en draft: false zijn
+Creeer overzicht bot: rename tags, maak ze zelfde case
+creeer makkelijker auto invul zoals ook voor blogdown werkt?
+maak alle plaatjes wide format en optimized for web. 
+loop bereidings tijden door, ws niet goed.
+tags standaard vegetarisch maken?
+voeg link in footer toe om pagina te veranderen. 
 
-Componenten niet goed
 
 voeg toe:
 pasta behcamel, bloemkoolmet speckjes ipv pijnboompitten (nieuw component?)

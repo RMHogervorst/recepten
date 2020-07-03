@@ -21,6 +21,7 @@ ingredients:
   - tortillacips
 tags: # You don't have to have 3, feel free to have 10, 1, or none
   - vegetarisch
+  - soep
 diets: 
 week: x
 
@@ -60,4 +61,4 @@ directions:
 - Serveren met tortillachips.
 ---
 
-Beschrijving
+Soep, maar dan pittig. 

@@ -15,7 +15,7 @@ cuisine: # The region associated with your recipe. For example, Italiaans, Medit
 ingredients:
   - speckjes
   - ui
-  - diepvriesspinazie
+  - spinazie
   - bieslookspread light
 tags: # You don't have to have 3, feel free to have 10, 1, or none
   - vegetarisch

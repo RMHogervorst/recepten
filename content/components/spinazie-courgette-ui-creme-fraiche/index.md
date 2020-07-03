@@ -13,10 +13,10 @@ sourceURL: # Actual URL of the recipe itself
 category:  # The type of meal or course your recipe is about. For example: "dinner", "entree", or "dessert".
 cuisine: # The region associated with your recipe. For example, Italiaans, Mediterraans", or Eigen.
 ingredients:
-  - Spinazie
-  - Courgette
-  - Ui
-  - Creme Fraiche
+  - spinazie
+  - courgette
+  - ui
+  - creme fraiche
   -
 tags: # You don't have to have 3, feel free to have 10, 1, or none
   - vegetarisch
