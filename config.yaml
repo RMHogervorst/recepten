@@ -54,6 +54,15 @@ taxonomies:
   week: weeks
   diet: diets
 
+outputs:
+  page:
+    - HTML
+    - json
+  section:
+    - HTML
+    - json
+
+
 # Diet specifics, ingredients that should not be in there
 specialdiets:
   paraberk: [appel, kers, kiwi, tomaat]

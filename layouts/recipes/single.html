@@ -26,6 +26,10 @@
     <div class="px2 mt3 clearfix">
       <div class="sm-col-8 mx-auto" itemprop="description">{{.Content}}</div>
     </div>
+    
+    <div class="px2 mt3 clearfix">
+      <div class="sm-col-8 mx-auto" itemprop="description"><i>Voorbereidingstijd: {{.Params.prepTime}} minuten, Bereidingstijd: {{ .Params.cookTime }} minuten</i> </div>
+    </div>
 
     <!-- call up recipe and directions -->
     <div class="clearfix mt3">
@@ -43,7 +47,7 @@
         </ul>
         {{ end }}
 
-        {{ with .Params.Ingredients }}
+        {{ with .Params.Ingredienten }}
         <h4 class="blue mt0 mb2 xs-center">Ingredients</h4>
         <ul itemprop="ingredients">
           <!-- list ingredients that make up recipe -->
@@ -94,7 +98,7 @@
 
         <h4 class="blue regular xs-center">Ingredients</h4>
         <ul class="ingredients" itemprop="ingredients">
-          {{ range .Params.Ingredients }}
+          {{ range .Params.Ingredienten }}
           <li itemprop="ingredient">
             {{ with ( . | markdownify) }}{{ partial "recipe_item.html" . }}{{ end }}
           </li>
