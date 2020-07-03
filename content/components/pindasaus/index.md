@@ -13,15 +13,13 @@ sourceURL: # Actual URL of the recipe itself
 category: saus # The type of meal or course your recipe is about. For example: "dinner", "entree", or "dessert".
 cuisine: # The region associated with your recipe. For example, Italiaans, Mediterraans", or Eigen.
 ingredients:
-  - pinda
-  -
+  - pindakaas
+  - melk
 tags: # You don't have to have 3, feel free to have 10, 1, or none
   - vegetarisch
-  - histamine-arm
-  -
-aantal_personen: 8
-prepTime: 15
-cookTime: 45
+aantal_personen: 0
+prepTime: 0
+cookTime: 7
 
 voedingswaarden:
   - per: portie
@@ -32,14 +30,15 @@ voedingswaarden:
   - vet: 0 g
   - verzadigd: 0 g
 
-
-
 ingredienten:
-- 1 ui
-- 1 knoflook
+- 2 a 3 eetlepels pindakaas
+- melk 
 
 directions:
-- Smelt de boter in een steelpan met dikke bodem op laag vuur. Meng er de bloem door en laat op laag vuur 3 min. garen.
+- start met de pindakaas in de pan
+- voeg scheutjes melk toe
+- blijf roeren totdat de pindasaus de consistentie heeft die je wil
 ---
 
-Beschrijving
+Of gebruik hiervoor kokosmelk, zeer romig. Sojasaus is ook erg lekker in de pindasaus alsook sambal.
+Bereiding hangt een beetje af van je gerecht, meer melk maakt de pindasaus dunner.

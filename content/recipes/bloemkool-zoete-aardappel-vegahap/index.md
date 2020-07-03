@@ -44,7 +44,7 @@ directions:
 
 components:
 - Bloemkool Koken
-- Zoete Aardappen Bakken
+- Zoete Aardappel Bakken
 
 ---
 
