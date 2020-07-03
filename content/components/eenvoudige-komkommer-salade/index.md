@@ -11,7 +11,7 @@ authorURL: # URL of their home website
 sourceName: # Name of the source website
 sourceURL: # Actual URL of the recipe itself
 category: salade # The type of meal or course your recipe is about. For example: "dinner", "entree", or "dessert".
-cuisine: # The region associated with your recipe. For example, Italiaans, Mediterraans", or Eigen.
+cuisine: # The region associated with your recipe. For example, Italiaans, Mediterraans, or Eigen.
 ingredients:
   - komkommer
   - peper
@@ -34,13 +34,12 @@ voedingswaarden:
   - vet: 0 g
   - verzadigd: 0 g
 
-
-
 ingredienten:
 - 2 komkommers
 - peper
 - zout
 - balsamicoazijn 2 lepels
+
 directions:
 - ontschil de komkommer
 - Schaaf de komkommer in lange plakken

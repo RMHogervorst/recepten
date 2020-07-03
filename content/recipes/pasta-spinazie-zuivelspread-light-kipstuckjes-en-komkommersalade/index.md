@@ -40,7 +40,7 @@ directions:
 
 components:
 - Pasta Koken
-- Komkommersalade
+- Eenvoudige Komkommer Salade
 - Spinazie Zuivelspread Kipstuckjes
 
 ---
