@@ -1,7 +1,7 @@
 ---
 layout: recipe
 date: {{ .Date }}
-draft: true
+draft: false
 title:  "{{ replace .Name "-" " " | humanize | title }}" # The title of your awesome recipe
 image:  # Name of image in recipe bundle
 imagecredit:  # URL to image source page, website, or creator

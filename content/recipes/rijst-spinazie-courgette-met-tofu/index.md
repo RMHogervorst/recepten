@@ -1,8 +1,7 @@
 ---
-
 layout: recipe
 date: 2019-09-17T22:12:40+02:00
-draft: true
+draft: false
 title:  "Rijst Spinazie Courgette Met Tofu" # The title of your awesome recipe
 image:  spinach_tofu.jpg
 imagecredit:  https://www.thespruceeats.com/marinated-tofu-recipe-with-spinach-695284
