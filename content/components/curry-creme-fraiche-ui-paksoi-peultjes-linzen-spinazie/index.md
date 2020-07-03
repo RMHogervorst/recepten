@@ -10,8 +10,8 @@ authorName: # Name of the recipe/article author
 authorURL: # URL of their home website
 sourceName: # Name of the source website
 sourceURL: # Actual URL of the recipe itself
-category: curry # The type of meal or course your recipe is about. For example: "dinner", "entree", or "dessert".
-cuisine: # The region associated with your recipe. For example, "French", Mediterranean", or "American".
+category: dinner # The type of meal or course your recipe is about. For example: "dinner", "entree", or "dessert".
+cuisine: # The region associated with your recipe. For example, Italiaans, Mediterraans", or Eigen.
 ingredients:
   - ui
   - currypasta
@@ -22,7 +22,7 @@ ingredients:
   - spinazie
 tags: # You don't have to have 3, feel free to have 10, 1, or none
   - vegetarisch
-
+  - curry
 aantal_personen: 2
 prepTime: 15
 cookTime: 45

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="nl-nl">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="R. H">
+    <meta name="description" content="Recepten gebruikt door ons">
+    <meta name="keywords" content="recipes">
+
+    <title>
+  filter  recepten
+</title>
+
+
+<script type="text/javascript" src="/recipes/index.json"></script>
+
+</head>
+ <body>
+   <!-- fetch(`http://localhost:3000/data/${hour}`, {
+           method: 'get'
+       })
+       .then(res => {
+           return res.json()
+         })
+       .then((response) => {
+           console.log('res: ' + JSON.stringify(response))
+       }) -->
+<script type="text/javascript">
+  var tData = JSON.parse("/recipes/index.json");
+</script>
+
+
+</body>

@@ -10,8 +10,8 @@ authorName: AH # Name of the recipe/article author
 authorURL: # URL of their home website
 sourceName: Albert Heijn Allerhande
 sourceURL: https://www.ah.nl/allerhande/recept/R-R1186442/linzensoep-met-pompoen-en-komijn
-category: Diner
-cuisine: # The region associated with your recipe. For example, "French", Mediterranean", or "American".
+category: dinner
+cuisine: Mediterraans # The region associated with your recipe. For example, Italiaans, Mediterraans", or Eigen.
 ingredients:
   - ui
   - pompoen

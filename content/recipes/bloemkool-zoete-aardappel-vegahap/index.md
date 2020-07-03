@@ -11,12 +11,16 @@ authorName: # Name of the recipe/article author
 authorURL: # URL of their home website
 sourceName: # Name of the source website
 sourceURL: # Actual URL of the recipe itself
-category: diner
-cuisine: # The region associated with your recipe. For example, "French", Mediterranean", or "American".
+category: dinner
+cuisine: Nederlands # The region associated with your recipe. For example, Italiaans, Mediterraans", or Eigen.
+ingredients:
+  - bloemkool
+  - zoete aardappel
+  - vegetarische burger
 diets:
 tags: # You don't have to have 3, feel free to have 10, 1, or none
   - vegetarisch
-
+  - AVG
 week: x
 
 aantal_personen: 8

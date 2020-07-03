@@ -10,8 +10,8 @@ authorName: Pauline `#UITPAULINESKEUKEN`
 authorURL: # URL of their home website
 sourceName: Uit Paulines Keuken
 sourceURL: https://uitpaulineskeuken.nl/2016/06/vegetarische-lasagne.html
-category: Diner # The type of meal or course your recipe is about. For example: "dinner", "entree", or "dessert".
-cuisine: Italiaans # The region associated with your recipe. For example, "French", Mediterranean", or "American".
+category: dinner # The type of meal or course your recipe is about. For example: "dinner", "entree", or "dessert".
+cuisine: Italiaans # The region associated with your recipe. For example, Italiaans, Mediterraans", or Eigen.
 ingredients:
   - paprika
   - aubergine

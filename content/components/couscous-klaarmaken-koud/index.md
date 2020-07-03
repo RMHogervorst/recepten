@@ -11,7 +11,7 @@ authorURL: # URL of their home website
 sourceName: # Name of the source website
 sourceURL: https://www.smulweb.nl/recepten/1057668/Couscoussalade
 category: # The type of meal or course your recipe is about. For example: "dinner", "entree", or "dessert".
-cuisine: # The region associated with your recipe. For example, "French", Mediterranean", or "American".
+cuisine: # The region associated with your recipe. For example, Italiaans, Mediterraans", or Eigen.
 ingredients:
   - couscous
   - citroensap

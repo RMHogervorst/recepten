@@ -10,8 +10,8 @@ authorName: # Name of the recipe/article author
 authorURL: # URL of their home website
 sourceName: ah allerhande
 sourceURL: https://www.ah.nl/allerhande/recept/R-R420018/pittige-linzensoep-met-vegetarische-worst
-category: diner
-cuisine: # The region associated with your recipe. For example, "French", Mediterranean", or "American".
+category: dinner
+cuisine: Fusion # The region associated with your recipe. For example, Italiaans, Mediterraans", or Eigen.
 ingredients:
   - roerbakmix
   - linzen

@@ -10,8 +10,8 @@ authorName: # Name of the recipe/article author
 authorURL: # URL of their home website
 sourceName: chickslovefood
 sourceURL: https://chickslovefood.com/recept/turkse-linzensoep-mercimek-corbasi/
-category: diner # The type of meal or course your recipe is about. For example: "dinner", "entree", or "dessert".
-cuisine: # The region associated with your recipe. For example, "French", Mediterranean", or "American".
+category: dinner # The type of meal or course your recipe is about. For example: "dinner", "entree", or "dessert".
+cuisine: Mediterraans # The region associated with your recipe. For example, Italiaans, Mediterraans", or Eigen.
 ingredients:
   - griekse yoghurt
   - ui

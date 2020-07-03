@@ -11,7 +11,7 @@ authorURL: # URL of their home website
 sourceName: Voedingscentrum.nl
 sourceURL: https://www.voedingscentrum.nl/encyclopedie/bloemkool.aspx
 category: # The type of meal or course your recipe is about. For example: "dinner", "entree", or "dessert".
-cuisine: # The region associated with your recipe. For example, "French", Mediterranean", or "American".
+cuisine: # The region associated with your recipe. For example, Italiaans, Mediterraans", or Eigen.
 ingredients:
   - bloemkool
 tags: # You don't have to have 3, feel free to have 10, 1, or none

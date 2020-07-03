@@ -10,7 +10,7 @@ authorName: # Name of the recipe/article author
 authorURL: # URL of their home website
 sourceName: AH allerhande
 sourceURL: https://www.ah.nl/allerhande/recept/R-R526326/wortel-linzensoep
-category: Diner
+category: dinner
 cuisine: Indiaas
 ingredients:
   - ui
