@@ -10,7 +10,7 @@ authorName: # Name of the recipe/article author
 authorURL: https://www.ah.nl
 sourceName: allerhande
 sourceURL: https://www.ah.nl/allerhande/recept/R-R961536/bechamelsaus
-category: saus
+category: 
 cuisine: Italiaans
 ingredients:
   - roomboter
@@ -21,6 +21,7 @@ ingredients:
 tags: # You don't have to have 3, feel free to have 10, 1, or none
   - vegetarisch
   - histamine-arm
+  - saus
 
 aantal_personen: 2
 prepTime: 2
