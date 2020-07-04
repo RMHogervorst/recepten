@@ -127,6 +127,7 @@
     {{ with .Params.Cuisine }}{{ partial "taxonomy/cuisine" . }}{{ end }}
     {{ with .Params.Tags }}{{ partial "taxonomy/tags" . }}{{ end }}
     {{ with .Params.Week }}{{ partial "taxonomy/weken" . }}{{ end }}
+    {{ with .Params.type_gerecht}} {{ partial "taxonomy/type_gerecht" .}} {{ end}}
     {{ with .Params.sourceURL }} {{partial "sources" . }} {{ end}}
   </article>
 </div>

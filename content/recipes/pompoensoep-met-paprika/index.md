@@ -16,6 +16,7 @@ tags: # You don't have to have 3, feel free to have 10, 1, or none
   - vegetarisch
   - histamine-arm
   - soep
+type_gerecht: soep # AVG, pasta, ovenschotel, soep, curry, wrap, etc.
 yield: 2
 prepTime: 15
 cookTime: 15

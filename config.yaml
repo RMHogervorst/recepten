@@ -33,9 +33,9 @@ menu:
     - name: Categorie
       weight: 2
       url: /category/
-    - name: Keuken
+    - name: Type gerecht
       weight: 3
-      url: /cuisine/
+      url: /type_gerecht/
     - name: Tags
       weight: 4
       url: /tags/
@@ -50,6 +50,7 @@ taxonomies:
   ingredient: ingredients
   week: weeks
   diet: diets
+  type_gerecht: type_gerecht
 
 outputs:
   page:

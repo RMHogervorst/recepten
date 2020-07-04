@@ -16,6 +16,7 @@ cuisine: Fusion # The region associated with your recipe. For example, Italiaans
 tags: # You don't have to have 3, feel free to have 10, 1, or none
   - vegetarisch
   - histaminearm
+type_gerecht: rijst # AVG, pasta, ovenschotel, soep, curry, wrap, etc.
 diets: 
 week: g
 

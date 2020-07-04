@@ -1,5 +1,4 @@
 ---
-
 layout: recipe
 date: {{ .Date }}
 draft: false
@@ -17,7 +16,7 @@ diets: # add diets
 tags: # You don't have to have 3, feel free to have 10, 1, or none
   - vegetarisch
   - histamine-arm
-
+type_gerecht: # AVG, pasta, ovenschotel, soep, curry, wrap, etc.
 week: x
 
 aantal_personen: 8

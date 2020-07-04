@@ -3,7 +3,7 @@
 layout: recipe
 date: 2019-09-14T10:27:31+02:00
 draft: false
-title:  "Sperziebonen Met Knoflook Ketjap Kikkererwten Curry" # The title of your awesome recipe
+title:  "Curry met Sperziebonen en Knoflook Ketjap Kikkererwten" # The title of your awesome recipe
 image:  kikkererwten.jpg
 imagecredit:  https://unsplash.com/photos/h83Rm3njjcg
 YouTubeID:  # The F2SYDXV1W1w part of https://www.youtube.com/watch?v=F2SYDXV1W1w
@@ -18,6 +18,7 @@ tags: # You don't have to have 3, feel free to have 10, 1, or none
   - vegetarisch
   - histamine-arm
   - curry
+type_gerecht: curry # AVG, pasta, ovenschotel, soep, curry, wrap, etc.
 diets: 
 week: g
 
