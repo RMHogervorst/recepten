@@ -1,7 +1,7 @@
 ---
 layout: recipe
 date: 2020-07-04T10:41:23+02:00
-draft: true    
+draft: false    
 title:  "Garnaal Spinazie Speckjes Pan" # The title of your awesome recipe
 image: tasty_screenshot.png # Name of image in recipe bundle
 imagecredit: https://tasty.co/recipe/shrimp-bacon-spinach-alfredo # URL to image source page, website, or creator
