@@ -41,6 +41,7 @@ ingredienten:
 - 250 ml volle melk
 
 directions:
+- Weeg en zet eerst alles klaar
 - Smelt de boter in een steelpan met dikke bodem op laag vuur.
 - Meng er de bloem door en laat op laag vuur 3 min. garen.
 - Pers de knoflook uit in de pan

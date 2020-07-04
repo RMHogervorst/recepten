@@ -17,13 +17,15 @@ Maar je kunt het ook met couscous of rijst doen.
 
 Voeg recept toe
 
-`hugo new --kind recipe-bundle recipes/name-of-your-new-recipe-here`, replacing name-of-your-new-recipe-here
+`hugo new --kind recipe-simple recipes/name-of-your-new-recipe-here`, replacing name-of-your-new-recipe-here
 
 Voor een recept uit componenten. voeg componenten toe
 
 `hugo new --kind recipe-component components/name-of-your-new-recipe-here`
-en voeg voor het hoofd recept zoals recept en vervang de instruction list met component list
-met de titels / namen van recepten
+en voeg voor het hoofd recept 
+`hugo new --kind component-combined recipes/name-of-your-new-recipe-here`
+en voeg in components: de componenten toe
+
 
 ## Aanpassingen
 Ik heb getracht wat meer met de ingredienten te doen. en heb een restfull api toegevoegd waardoor je de gerechten ook als json kunt downloaden / app erop kunt bouwen.
@@ -38,5 +40,6 @@ In elk recept staan:
 - prepTime: voorbereidings tijd in minuten, wordt nu onder beschrijving weergeven
 - cookTime: totale tijd in minuten, wordt nu onder beschrijving weergeven
 - directions: stap voor stap aanwijzingen 
+- type_gerecht:  AVG, pasta, ovenschotel, soep, curry, wrap, etc.
 
 De ingredients en directions worden getoond in aanvink blokjes

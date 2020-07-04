@@ -7,18 +7,9 @@ maak alle plaatjes wide format en optimized for web.
 loop bereidings tijden door, ws niet goed.
 tags standaard vegetarisch maken?
 voeg link in footer toe om pagina te veranderen. 
-
+Voeg type_gerecht toe of vervang keuken: AVG, pasta, ovenschotel, soep, curry, wrap.
 
 voeg toe:
-pasta behcamel, bloemkoolmet speckjes ipv pijnboompitten (nieuw component?)
-
-tasty recipe https://tasty.co/recipe/shrimp-bacon-spinach-alfredo
-met aanpassingen van vega speckjes, 
-
-wrap gerechten toevoegen
-- wrap met zalm en verse spinazie, ui, courgette en roomkaas (ui, courgette roerbak als component)
-- wrap feta, ui, paprikaas, gyros, sla, tzaziki, komkommer, zwarte olijven
-
 
 
 curry gerecht waar we pindasaus van hebben gemaakt. 
