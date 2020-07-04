@@ -15,7 +15,7 @@ cuisine: # The region associated with your recipe. For example, Italiaans, Medit
 ingredients:
   - ui
   - currypasta
-  - creme fraiche light
+  - creme fraiche
   - paksoi
   - peultjes
   - linzen
