@@ -10,7 +10,7 @@ voeg link in footer toe om pagina te veranderen.
 Voeg type_gerecht toe of vervang keuken: AVG, pasta, ovenschotel, soep, curry, wrap.
 
 voeg toe:
-
+images voor wraps, en rijst, erwten
 
 curry gerecht waar we pindasaus van hebben gemaakt. 
 
