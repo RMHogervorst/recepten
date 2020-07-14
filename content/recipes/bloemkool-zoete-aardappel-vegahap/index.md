@@ -20,7 +20,6 @@ ingredients:
 diets:
 tags: # You don't have to have 3, feel free to have 10, 1, or none
   - vegetarisch
-  - AVG
 type_gerecht: AVG # AVG, pasta, ovenschotel, soep, curry, wrap, etc.
 week: x
 

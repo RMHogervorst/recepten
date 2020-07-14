@@ -33,10 +33,10 @@ ingredients:
 ingredienten:
 - diepvries garnalen (~450 g)
 - 3 teentjes knoflook 
-- 60g verse spinazie
-- 1 ui
+- veul verse spinazie
+- 2 uien
 - 455g pasta, Tagliatelle bijvoorbeeld
-- 1 bakje 250 gslagroom
+- 1 bakje 250 g slagroom
 - half pak speckjes
 - parmezaanse kaas
 - zout 1 theelepel
@@ -49,7 +49,8 @@ directions:
 - in een grote pan, bak de knoflook in olie en voeg de garnalen toe
 - als de garnalen roze worden, verwijder de garnalen
 - voeg de ui, en spinazie, peper en zout toe
-- kook de pasta kort voor (4 minuten) 
+- kook de pasta (7 minuten) 
+- bak de vegetarische speckjes voor (4 minuten)
 - voeg slagroom toe aan de mix van spinazie
 - voeg de pasta toe aan de spinaziemix en breng aan de kook
 - voeg de vegetarische speckjes toe
@@ -65,3 +66,4 @@ en de hoeveelheden zijn wat anders.
 Tijden zijn nog onduidelijk, want ik heb het gerecht maar 1 keer gemaakt.
 Prep tijd is wat langer omdat je de garnalen moet ontdooien en magnetron is slecht voor garnalen.
 Je kunt ook diepvriesspinazie gebruiken, maakt de bereiding ietsje makkelijker. 
+Het is ook mogelijk om de pasta in de room te koken, maar los is veel makkelijker

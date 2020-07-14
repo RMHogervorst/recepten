@@ -39,3 +39,5 @@ directions:
 - Kook de rijst volgens verpakking, meestal 8 minuten
 - laat even rusten na uitlekken
 ---
+Basmati: 60g p/persoon voor kleine honger, 80g voor grotere honger, 100g voor
+heul veul honger.

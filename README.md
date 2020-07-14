@@ -35,7 +35,7 @@ In elk recept staan:
 - ingredienten: zet hier de hoeveelheden wel bij: 2 uien etc.
 - category: type recept, nu in het engels "dinner", "entree", or "dessert".
 - cuisine: keuken: Marrokaans, Italiaans, Spaans, Eigen (Zelfgemaakt), Fusion (mix van stijlen)
-- tags: Meestal  - vegetarisch, vaak - histamine-arm, - slank, - zomer, - soep, - curry
+- tags: Meestal  - vegetarisch, vaak - histamine-arm, - slank, - zomer, gebruik niet dezelfde als type gerecht.
 - yield: (voor hoeveel personen, of hoeveelheden, wordt nu niet gebruikt)
 - prepTime: voorbereidings tijd in minuten, wordt nu onder beschrijving weergeven
 - cookTime: totale tijd in minuten, wordt nu onder beschrijving weergeven

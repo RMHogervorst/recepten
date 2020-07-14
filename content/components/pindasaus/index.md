@@ -32,8 +32,8 @@ voedingswaarden:
   - verzadigd: 0 g
 
 ingredienten:
-- 2 a 3 eetlepels pindakaas
-- melk 
+- 3 eetlepels pindakaas (bijvoorbeeld 100% naturel pindakaas)
+- kokosmelk klein blikje (270ml)
 
 directions:
 - start met de pindakaas in de pan
