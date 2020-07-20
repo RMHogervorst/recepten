@@ -17,7 +17,7 @@ tags: # You don't have to have 3, feel free to have 10, 1, or none
   - vegetarisch
   - histamine-arm
 type_gerecht: rijst # AVG, pasta, ovenschotel, soep, curry, wrap, etc.
-diets: 
+diets:
 week: g
 
 aantal_personen: 2
