@@ -3,7 +3,8 @@ layout: recipe
 date: 2020-08-26T09:50:36+02:00
 draft: false
 title:  "Vega Stoofpotje" # The title of your awesome recipe
-image:  stoofpot-jumbo-koken-chickslovefood-2-1000x640.jpghttps://chickslovefood.com/recept/vegetarische-stoofpot-met-zoete-aardappel-jumbo-menu/
+image:  stoofpot-jumbo-koken-chickslovefood-2-1000x640.jpg
+imagecredit:: https://chickslovefood.com/recept/vegetarische-stoofpot-met-zoete-aardappel-jumbo-menu/
 YouTubeID:  # The F2SYDXV1W1w part of https://www.youtube.com/watch?v=F2SYDXV1W1w
 authorName: # Name of the recipe/article author
 authorURL: # URL of their home website
