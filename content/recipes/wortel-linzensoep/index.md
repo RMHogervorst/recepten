@@ -31,13 +31,13 @@ prepTime: 35
 cookTime: 20
 
 voedingswaarden:
-  - per: portie
-  - energie: 570 kcal
-  - vezels: 16 g
-  - eiwit: 17 g
-  - koolhydraten: 65 g
-  - vet: 25 g
-  - verzadigd: 7 g
+   per: portie
+   energie: 570 kcal
+   vezels: 16 g
+   eiwit: 17 g
+   koolhydraten: 65 g
+   vet: 25 g
+   verzadigd: 7 g
 
 
 ingredienten:

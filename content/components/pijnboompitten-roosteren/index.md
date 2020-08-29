@@ -23,13 +23,13 @@ prepTime: 0
 cookTime: 6
 
 voedingswaarden:
-  - per: eetlepel (15 gram)
-  - energie: 92 kcal
-  - vezels: 0.1 gram
-  - eiwit: 3.6 g
-  - koolhydraten: 16 g
-  - vet: 7.6 g
-  - verzadigd: 0.8 g
+   per: eetlepel (15 gram)
+   energie: 92 kcal
+   vezels: 0.1 gram
+   eiwit: 3.6 g
+   koolhydraten: 16 g
+   vet: 7.6 g
+   verzadigd: 0.8 g
 
 
 

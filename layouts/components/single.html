@@ -20,17 +20,15 @@
   <article class="post-content px2">
     <!-- call up the main recipe title and content -->
     <header class="post-header">
-      <h1 class="post-title center m1 sm-mt3" itemprop="name">{{ .Title }}</h1>
+      <h1 class="post-title center m1 sm-mt3" itemprop="name"><i>component: </i> {{ .Title }}</h1>
     </header>
-    {{ partial "nutrition" . }}
 
     <div class="px2 mt3 clearfix">
       <div class="sm-col-8 mx-auto" itemprop="description">{{.Content}}</div>
     </div>
 
     <div class="px2 mt3 clearfix">
-      <div class="sm-col-8 mx-auto">
-        Voorbereidingstijd: <i itemprop=prepTime>{{.Params.prepTime}} minuten </i>, Bereidingstijd: <i itemprop=cookTime> {{ .Params.cookTime }} minuten</i> </div>
+      <div class="sm-col-8 mx-auto" itemprop="description"><i>Voorbereidingstijd: {{.Params.prepTime}} minuten, Bereidingstijd: {{ .Params.cookTime }} minuten</i> </div>
     </div>
 
     <!-- call up recipe and directions -->
@@ -101,11 +99,10 @@
         <h4 class="blue regular xs-center">Ingredients</h4>
         <ul class="ingredients" itemprop="ingredients">
           {{ range .Params.Ingredienten }}
-          <li itemprop="ingredienten">
+          <li itemprop="ingredient">
             {{ with ( . | markdownify) }}{{ partial "recipe_item.html" . }}{{ end }}
           </li>
           {{ end }}
-
         </ul>
 
         <h4 class="blue regular xs-center">Steps</h4>
@@ -123,18 +120,15 @@
     </div>
 
     {{ end }}
-
     <!-- end components -->
     <br />
+
     {{ with .Params.Category }}{{ partial "taxonomy/category" . }}{{ end }}
     {{ with .Params.Cuisine }}{{ partial "taxonomy/cuisine" . }}{{ end }}
     {{ with .Params.Tags }}{{ partial "taxonomy/tags" . }}{{ end }}
     {{ with .Params.Week }}{{ partial "taxonomy/weken" . }}{{ end }}
     {{ with .Params.type_gerecht}} {{ partial "taxonomy/type_gerecht" .}} {{ end}}
     {{ with .Params.sourceURL }} {{partial "sources" . }} {{ end}}
-
-
-
   </article>
 </div>
 {{ end }}

@@ -23,13 +23,13 @@ prepTime: 0
 cookTime: 8
 
 voedingswaarden:
-  - per: 100 g
-  - energie: 131 kcal
-  - vezels: 4.2 g
-  - eiwit: 6 g
-  - koolhydraten: 23.1 g
-  - vet: 1.5 g
-  - verzadigd: 0.1 g
+   per: 100 g
+   energie: 131 kcal
+   vezels: 4.2 g
+   eiwit: 6 g
+   koolhydraten: 23.1 g
+   vet: 1.5 g
+   verzadigd: 0.1 g
 
 ingredienten:
 - 150 gram gedroogde pasta

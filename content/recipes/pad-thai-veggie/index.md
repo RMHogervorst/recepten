@@ -8,7 +8,7 @@ imagecredit:  https://www.jamieoliver.com/recipes/vegetable-recipes/veggie-pad-t
 YouTubeID:  # The F2SYDXV1W1w part of https://www.youtube.com/watch?v=F2SYDXV1W1w
 authorName: Jamie Oliver
 authorURL: jamieoliver.com
-sourceName: jamieoliver.com
+sourceName: VEG
 sourceURL: https://www.jamieoliver.com/recipes/vegetable-recipes/veggie-pad-thai/
 category: # The type of meal or course your recipe is about. For example: "dinner", "entree", or "dessert".
 cuisine: Aziatisch # The region associated with your recipe. For example, Italiaans, Mediterraans", or Eigen.
@@ -40,13 +40,13 @@ prepTime: 5
 cookTime: 30
 
 voedingswaarden:
-  - per: portie
-  - energie: 593 kcal
-  - vezels: 8.3 g
-  - eiwit: 26.4 g
-  - koolhydraten: 83.5 g
-  - vet: 19 g
-  - verzadigd: 3.8 g
+   per: portie
+   energie: 593 kcal
+   vezels: 8.3 g
+   eiwit: 26.4 g
+   koolhydraten: 83.5 g
+   vet: 19 g
+   verzadigd: 3.8 g
 
 
 ingredienten:

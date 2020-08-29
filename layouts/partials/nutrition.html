@@ -1,0 +1,16 @@
+{{ with .Params.voedingswaarden }}
+<div itemprop="nutrition"
+    itemscope itemtype="http://schema.org/NutritionInformation">
+
+    <b>Voedingswaarden:</b>
+    <i>
+  Energie: <span itemprop="calories"> {{ .energie }} </span>,
+  per <span itemprop="servingSize"> {{ .per}}</span>,
+  koolhydraten: <span itemprop="carbohydrateContent"> {{ .koolhydraten}} </span>,
+  Vet:<span itemprop="fatContent"> {{ .vet}} </span>,
+  Waarvan verzadigd: <span itemprop="saturatedFatContent"> {{ .verzadigd}} </span>,
+  Eiwitten: <span itemprop="proteinContent"> {{ .eiwit}} </span>,
+  Vezels: <span itemprop="fiberContent"> {{ .vezels }} </span>
+</i>
+</div>
+{{ end }}

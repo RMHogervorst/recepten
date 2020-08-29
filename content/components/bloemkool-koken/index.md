@@ -23,12 +23,12 @@ prepTime: 2
 cookTime: 8
 
 voedingswaarden:
-  - per: 100g
-  - energie: 23 kcal
-  - eiwit: 2 g
-  - koolhydraten: 1.9 g
-  - vet: 0.1 g
-  - verzadigd: 0 g
+   per: 100g
+   energie: 23 kcal
+   eiwit: 2 g
+   koolhydraten: 1.9 g
+   vet: 0.1 g
+   verzadigd: 0 g
 
 
 ingredienten:

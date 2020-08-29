@@ -17,6 +17,26 @@
 
 - pasta broccoli, paprika uit pot, zwarte olijven, ui, roomkaas (erwten, basicilum, prei, lenteui?)
 
+- Gadogado
+- croc madame, croc monsieur
+- flambern
+- dahl bijv https://chickslovefood.com/recept/dahl-zelf-maken/
+
+### Potentiele gerechten uit creatief koken met groenten
+- aardappelpannetje smeltkaas (p13)
+- potato wedges (p13)
+- Thaise aubergines in kokossaus (p34)
+- broccolicouscous met citroen yoghurt (p42)
+- Toscaanse bonensoep (p46)
+- Bonensoepje met gember (p48)
+- Paksoi met udon noedels (p86)
+- Rode paprikasoep (101)
+- Stamppot koolraap (p118)
+- Rode bietensalade met linzen (p127)
+
+### Potentiele gerechten uit Ah vega boek
+- Indiase wortelsoep (p18)
+
 
 
 

@@ -27,13 +27,13 @@ prepTime: 0
 cookTime: 10
 
 voedingswaarden:
-  - per: portie
-  - energie: 0 kcal
-  - vezels: 0 g
-  - eiwit: 0 g
-  - koolhydraten: 0 g
-  - vet: 0 g
-  - verzadigd: 0 g
+   per: portie
+   energie: 0 kcal
+   vezels: 0 g
+   eiwit: 0 g
+   koolhydraten: 0 g
+   vet: 0 g
+   verzadigd: 0 g
 
 
 

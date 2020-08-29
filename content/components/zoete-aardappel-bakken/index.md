@@ -23,13 +23,13 @@ prepTime: 2
 cookTime: 10
 
 voedingswaarden:
-  - per: zoete aardappel
-  - energie: 122 kcal
-  - vezels: 3 g
-  - eiwit: 1.4 g
-  - koolhydraten: 26,6 g
-  - vet: 0.4 g
-  - verzadigd: 0.1 g
+   per: zoete aardappel
+   energie: 122 kcal
+   vezels: 3 g
+   eiwit: 1.4 g
+   koolhydraten: 26,6 g
+   vet: 0.4 g
+   verzadigd: 0.1 g
 
 
 ingredienten:

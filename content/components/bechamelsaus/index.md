@@ -10,7 +10,7 @@ authorName: # Name of the recipe/article author
 authorURL: https://www.ah.nl
 sourceName: allerhande
 sourceURL: https://www.ah.nl/allerhande/recept/R-R961536/bechamelsaus
-category: 
+category:
 cuisine: Italiaans
 ingredients:
   - roomboter
@@ -28,11 +28,11 @@ prepTime: 2
 cookTime: 8
 
 voedingswaarden:
-  - energie: 220 kcal
-  -  eiwit: 6 g
-  -  koolhydraten: 16 g
-  -  vet: 15 g
-  -  verzadigd: 0 g
+   energie: 220 kcal
+   eiwit: 6 g
+   koolhydraten: 16 g
+   vet: 15 g
+   verzadigd: 0 g
 
 ingredienten:
 - 25g ongezouten roomboter
