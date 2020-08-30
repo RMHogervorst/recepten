@@ -53,7 +53,7 @@ ingredienten:
 - 1/2 flesje bockbier
 - 50g brokkelkaas
 - 1 ui
-- 50g rode linzen
+- 100g rode linzen (half bakje)
 - 1 rode pepertje
 - 2 theelepels paprikapoeder
 - 2 theelepels thijm
@@ -68,13 +68,19 @@ directions:
 - Snijd de ui, prei, peper en knoflook
 - bak de prei, ui, pepertjes, knoflook en alle kruiden 3 minuten aan
 - voeg de zoete aardappel en aubergine toe en bak mee voor 5 minuten
-- spoel linzen af en kook ze gaar (als nodig)
+- spoel linzen af en kook ze gaar (als nodig) (voeg toe met wat water)
 - voeg bockbier toe en kook voor 12 minuten
 - check of aardappels gaar
-- serveer met kaas
+- serveer met kaas, eventueel met yoghurt erbij
 
 ---
 
 Mix van stoofpotjes van [chickslovefood](https://chickslovefood.com/recept/vegetarische-stoofpot-met-zoete-aardappel-jumbo-menu/)
 en [puursuzanne.nl](https://www.puursuzanne.nl/recepten/vegetarische-stoofpot-linzen).
-Nog onduidelijk of het lekker is
+Nog onduidelijk of het lekker is.
+In eerste instantie gemaakt met 1 heel flesje agligem trippel, worteltjes,
+champies, 1 tl kaneel, 2 theelepels chilipoeder, 1 paprikapoeder, 2 snufjes
+tijm. 1 pepertje. 100g linzen. De hele hoeveelheid peper was teveel, misschien ietsje meer zout.
+Recept aangepast.
+
+Ervaar met couscous

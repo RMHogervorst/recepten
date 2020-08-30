@@ -54,11 +54,11 @@ ingredienten:
 - 20g ongezouten pindas
 - 2 teentjes knoflook
 - 80g tofu
-- sojasaus (laag zout)
+- 3 theelepels sojasaus (laag zout)
 - 2 theelepels tamarind pasta
 - 2 theelepels zoete chili saus
-- 2 limoenen
-- 1 shallotje
+- 1 limoen
+- 1 sjallotje
 - 320g crunchy vegetables (asparges, paarse broccoli, pakchoi, baby corn)
 - 80g tauge
 - gedroogde chili vlokken
@@ -66,15 +66,19 @@ ingredienten:
 - 15g verse basilicum, munt en koriander
 
 directions:
-- kook de noodles volgens aanwijzingen, spoel ze af on der koud water.
+- globaal stap 1;
+- kook de noodles volgens aanwijzingen, spoel ze af onder koud water.
 - rooster pindas in nonstick pan en vermaal
-- stamp knoflook fijn en stop met tofu in pasta
-- voeg 1 tablespoon sojasaus, tamarinde pasta en chilisaus toe.
-- voeg de helft van limoensap toe
+- maak de basispasta;
+- knoflook uitpersen, tofu prakken.
+- 3 theelepels sojasaus, 2 theelepels tamarindepasta en 2 theelepels chilisaus
+- pers halve limoen uit, 1 theelepel olijfolie (ipv sesamolie)
+- globaal stap 2;
 - snijd de shallot (fijn) en en bak op hoog vuur
 - Trim, prep and slice the crunchy veg, as necessary, then dry-fry for 4 minutes, or until lightly charred (to bring out a nutty, slightly smoky flavour).
 - voeg noedels, saus, tauge en splash of water, gooi door elkaar in warme pan voor 1 minuut
 - verdeel over kommen
+- globaal stap 3;
 - veeg pan uit
 - crack in the eggs and cook to your liking in a little olive oil, sprinkling with a pinch of chilli flakes.
 - Trim the lettuce, click apart the leaves and place a few in each bowl.
@@ -82,4 +86,10 @@ directions:
 - Serve with lime wedges for squeezing over, and extra soy, to taste.
 ---
 
-Geinspireerd op Jamie Oliver veggie pad thai. maar zonder sesamolie
+Geinspireerd op Jamie Oliver veggie pad thai. maar zonder sesamolie.
+Mijn eerste versie was te zuur. ietsje minder tamarinde, iets meer soja en chili.
+
+Globaal in 3 stappen:
+- maak saus en noedels en gril de pindas en vermaal ze
+- uien en groenten bakken
+- ei bakken in pan met groentjes
