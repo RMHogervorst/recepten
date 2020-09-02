@@ -33,9 +33,6 @@ HUGO_ENABLEGITINFO = "true"
 package = "netlify-plugin-is-website-vulnerable"
 
 [[plugins]]
-package = "netlify-plugin-image-optim"
-
-[[plugins]]
   package = "netlify-plugin-hugo-cache-resources"
 
 	[plugins.inputs]
