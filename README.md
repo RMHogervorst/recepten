@@ -1,19 +1,19 @@
 # Recepten
 
 Overzichtje van recepten met handige doorverwijzingen,
-mits goed ingevuld. 
+mits goed ingevuld.
 
 woont voorlopig op: <https://recepten.rmhogervorst.nl/>
 Gebouwd op hugo met theme ['gochowdown'](https://github.com/seanlane/gochowdown).
 
 Er zijn recepten en componenten. Gewone recepten hebben een beschrijving en ingredienten etc
-voorbeeld: <https://recepten.rmhogervorst.nl/recipes/pittige-linzensoep-met-vegetarische-worst/> 
+voorbeeld: <https://recepten.rmhogervorst.nl/recipes/pittige-linzensoep-met-vegetarische-worst/>
 recepten kunnen ook worden opgebouwd uit componenten: <https://recepten.rmhogervorst.nl/recipes/couscous-ras-el-hanout-met-linzen/> bijvoorbeeld.
 Je kunt dan snel verschillende recepten maken door componenten te hergebruiken. Bijvoorbeeld:
 
-<https://recepten.rmhogervorst.nl/recipes/pasta-spinazie-zuivelspread-light-kipstuckjes-en-komkommersalade/> 
-bestaat uit pasta koken, komkommersalade en spinazie-zuivelspread-kipstuckjes. 
-Maar je kunt het ook met couscous of rijst doen.  
+<https://recepten.rmhogervorst.nl/recipes/pasta-spinazie-zuivelspread-light-kipstuckjes-en-komkommersalade/>
+bestaat uit pasta koken, komkommersalade en spinazie-zuivelspread-kipstuckjes.
+Maar je kunt het ook met couscous of rijst doen.
 
 Voeg recept toe
 
@@ -22,9 +22,18 @@ Voeg recept toe
 Voor een recept uit componenten. voeg componenten toe
 
 `hugo new --kind recipe-component components/name-of-your-new-recipe-here`
-en voeg voor het hoofd recept 
+en voeg voor het hoofd recept
 `hugo new --kind component-combined recipes/name-of-your-new-recipe-here`
 en voeg in components: de componenten toe
+
+Comprimeren van images:
+
+```
+# Comprimeren van png files
+find . -name "*.png" -exec optipng '{}' \;
+find . -name "*.jpg" -exec jpegoptim --all-progressive --strip-all '{}' \;
+```
+
 
 
 ## Aanpassingen
@@ -39,7 +48,7 @@ In elk recept staan:
 - yield: (voor hoeveel personen, of hoeveelheden, wordt nu niet gebruikt)
 - prepTime: voorbereidings tijd in minuten, wordt nu onder beschrijving weergeven
 - cookTime: totale tijd in minuten, wordt nu onder beschrijving weergeven
-- directions: stap voor stap aanwijzingen 
+- directions: stap voor stap aanwijzingen
 - type_gerecht:  AVG, pasta, ovenschotel, soep, curry, wrap, etc.
 
 De ingredients en directions worden getoond in aanvink blokjes

@@ -6,7 +6,7 @@ title: Mijn recepten
 theme: gochowdown
 googleAnalytics:
 defaultcontentlanguage: nl
-paginate: 20
+paginate: 30
 canonifyurls: true
 pygmentsstyle: monokai
 pygmentscodefences: true

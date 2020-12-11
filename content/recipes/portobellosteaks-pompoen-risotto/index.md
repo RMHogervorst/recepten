@@ -15,21 +15,13 @@ cuisine: # The region associated with your recipe. For example, Italiaans, Medit
 diets: # add diets
 tags: # You don't have to have 3, feel free to have 10, 1, or none
 
-type_gerecht: # AVG, pasta, ovenschotel, soep, curry, wrap, etc.
+type_gerecht: rijst # AVG, pasta, ovenschotel, soep, curry, wrap, etc.
 week: x
 
 aantal_personen: 4
 prepTime: 30
 cookTime: 80
 
-voedingswaarden:
-  - per: portie
-  - energie: 0 kcal
-  - vezels: 0 g
-  - eiwit: 0 g
-  - koolhydraten: 0 g
-  - vet: 0 g
-  - verzadigd: 0 g
 
 
 directions:
