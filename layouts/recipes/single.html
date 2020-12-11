@@ -83,7 +83,7 @@
       {{ $compTitle := . }}
       <div class="sm-col sm-col-4 px2 recipeItems">
       {{ range where $.Site.Pages "Title" $compTitle }}
-        <h4 class="blue center">{{ .Title }}</h4>
+        <h4 class="blue center"> <a href="{{ .Permalink }}">{{ .Title }}</a></h4>
         {{ range (.Resources.ByType "image") }}
         <div class="image ratio bg-cover" style="background-image:url({{$.Site.BaseURL}}{{ .RelPermalink }});">
           <img class="hide" itemprop="photo" src="{{$.Site.BaseURL}}{{ .RelPermalink }}" />
