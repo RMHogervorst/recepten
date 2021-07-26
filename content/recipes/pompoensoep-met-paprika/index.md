@@ -1,7 +1,7 @@
 ---
 layout: recipe
 date: 2020-07-03T21:25:13+02:00
-draft: false    
+draft: false
 title:  "Pompoensoep Met Paprika" # The title of your awesome recipe
 image: chris-liverani-squash-unsplash.jpg # Name of image in recipe bundle
 imagecredit: https://unsplash.com/photos/5ozBBPGYuQg # URL to image source page, website, or creator
@@ -22,6 +22,16 @@ prepTime: 15
 cookTime: 15
 
 week: x
+
+voedingswaarden:
+   per: portie
+   energie: 0 kcal
+   vezels: 0 g
+   eiwit: 0 g
+   koolhydraten: 0 g
+   vet: 0 g
+   verzadigd: 0 g
+
 
 ingredients:
 - pompoen
@@ -54,5 +64,5 @@ directions:
 - voeg kokosmelk toe voor romigheid
 ---
 
-Een variant op normale pompoensoep door toevoeging van kokosmelk en paprika. 
+Een variant op normale pompoensoep door toevoeging van kokosmelk en paprika.
 Maakt het veel romiger en de paprika geeft een mooie bijsmaak.

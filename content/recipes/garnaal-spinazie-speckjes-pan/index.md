@@ -1,7 +1,7 @@
 ---
 layout: recipe
 date: 2020-07-04T10:41:23+02:00
-draft: false    
+draft: false
 title:  "Garnaal Spinazie Speckjes Pan" # The title of your awesome recipe
 image: tasty_screenshot.png # Name of image in recipe bundle
 imagecredit: https://tasty.co/recipe/shrimp-bacon-spinach-alfredo # URL to image source page, website, or creator
@@ -15,6 +15,7 @@ cuisine: Eigen # The region associated with your recipe. For example, Italiaans,
 tags: # You don't have to have 3, feel free to have 10, 1, or none
   - pasta
   - creamy
+
 type_gerecht: pasta # AVG, pasta, ovenschotel, soep, curry, wrap, etc.
 yield: 2
 prepTime: 120
@@ -30,9 +31,19 @@ ingredients:
 - speckjes
 - parmezaanse kaas
 
+voedingswaarden:
+   per: portie
+   energie: 0 kcal
+   vezels: 0 g
+   eiwit: 0 g
+   koolhydraten: 0 g
+   vet: 0 g
+   verzadigd: 0 g
+
+
 ingredienten:
 - diepvries garnalen (~450 g)
-- 3 teentjes knoflook 
+- 3 teentjes knoflook
 - veul verse spinazie
 - 2 uien
 - 455g pasta, Tagliatelle bijvoorbeeld
@@ -49,7 +60,7 @@ directions:
 - in een grote pan, bak de knoflook in olie en voeg de garnalen toe
 - als de garnalen roze worden, verwijder de garnalen
 - voeg de ui, en spinazie, peper en zout toe
-- kook de pasta (7 minuten) 
+- kook de pasta (7 minuten)
 - bak de vegetarische speckjes voor (4 minuten)
 - voeg slagroom toe aan de mix van spinazie
 - voeg de pasta toe aan de spinaziemix en breng aan de kook
@@ -59,11 +70,11 @@ directions:
 - haal van het vuur wanneer de kaas begint te smelten
 ---
 
-Volgens Tasty creamy en satisfying, maar zij mieteren er ook echt heul veel vet in. 
+Volgens Tasty creamy en satisfying, maar zij mieteren er ook echt heul veel vet in.
 Zelfs als je de hoeveelheden halveert is  het nog steeds een creamy pasta.
-Dit recept is aangepast zodat het wel garnalen bevat, maar geen bacon (want we eten geen vlees), 
-en de hoeveelheden zijn wat anders. 
+Dit recept is aangepast zodat het wel garnalen bevat, maar geen bacon (want we eten geen vlees),
+en de hoeveelheden zijn wat anders.
 Tijden zijn nog onduidelijk, want ik heb het gerecht maar 1 keer gemaakt.
 Prep tijd is wat langer omdat je de garnalen moet ontdooien en magnetron is slecht voor garnalen.
-Je kunt ook diepvriesspinazie gebruiken, maakt de bereiding ietsje makkelijker. 
+Je kunt ook diepvriesspinazie gebruiken, maakt de bereiding ietsje makkelijker.
 Het is ook mogelijk om de pasta in de room te koken, maar los is veel makkelijker
