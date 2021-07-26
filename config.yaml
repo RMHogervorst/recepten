@@ -26,6 +26,7 @@ params:
   showNavTitle: false            # Boolean: show site title in nav bar
   custom_css:
     - style.css
+languages: "nl"
 menu:
   main:
     - name: Home
