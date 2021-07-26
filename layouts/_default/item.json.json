@@ -1,13 +1,19 @@
 {
   "title": "{{ .Title}}",
+  "permalink" : "{{ .Permalink }}",
+  "type_gerecht": ["{{.Params.type_gerecht }}"],
   "ingredients": [ {{ range $i, $e := .Params.ingredients -}}
       {{- if $i -}}, {{ end -}}
      "{{ $e | humanize }}"
       {{- end -}} ] ,
   "cuisine": "{{ .Params.cuisine }}",
   "tags": [ {{ range $i, $e := .Params.Tags -}}
+          {{- if $i -}}, {{ end -}}
+         "{{ $e | humanize }}"
+          {{- end -}} ],
+  "boodschappenlijstje":  [ {{ range $i, $e := .Params.ingredienten -}}
       {{- if $i -}}, {{ end -}}
      "{{ $e | humanize }}"
-      {{- end -}} ],
-  "permalink" : "{{ .Permalink }}"
+      {{- end -}} ] 
+
 }
