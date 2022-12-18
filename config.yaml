@@ -6,7 +6,8 @@ title: Mijn recepten
 theme: gochowdown
 googleAnalytics:
 defaultcontentlanguage: nl
-paginate: 30
+#languages: "nl"
+paginate: 50
 canonifyurls: true
 pygmentsstyle: monokai
 pygmentscodefences: true
@@ -14,6 +15,7 @@ pygmentscodefencesguesssyntax: true
 pygmentsOptions: "linenos=table"
 permalinks:
   posts: /posts/:year/:month/:title
+
 params:
   author: R. H
   description: Recepten gebruikt door ons
@@ -26,7 +28,8 @@ params:
   showNavTitle: false            # Boolean: show site title in nav bar
   custom_css:
     - style.css
-languages: "nl"
+
+
 menu:
   main:
     - name: Home
@@ -50,7 +53,6 @@ taxonomies:
   cuisine: cuisine
   tag: tags
   ingredient: ingredients
-  week: weeks
   diet: diets
   type_gerecht: type_gerecht
 
@@ -62,11 +64,11 @@ outputs:
     - HTML
     - json
 
-markup:
-  goldmark:
-    renderer:
-      unsafe: true
+#markup:
+#  goldmark:
+#    renderer:
+#      unsafe: true
 
 # Diet specifics, ingredients that should not be in there
-specialdiets:
-  paraberk: [appel, kers, kiwi, tomaat]
+#specialdiets:
+#  paraberk: [appel, kers, kiwi, tomaat]
