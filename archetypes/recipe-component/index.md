@@ -13,8 +13,6 @@ sourceURL: # Actual URL of the recipe itself
 cuisine: # The region associated with your recipe. For example, Italiaans, Mediterraans", or Eigen.
 ingredients:
   - kaas
-
-
 voedingswaarden:
     per: portie
     energie: 0 kcal

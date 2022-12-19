@@ -64,11 +64,11 @@ outputs:
     - HTML
     - json
 
-#markup:
-#  goldmark:
-#    renderer:
-#      unsafe: true
+markup:
+ goldmark:
+   renderer:
+     unsafe: true
 
-# Diet specifics, ingredients that should not be in there
-#specialdiets:
-#  paraberk: [appel, kers, kiwi, tomaat]
+#Diet specifics, ingredients that should not be in there
+specialdiets:
+ paraberk: [appel, kers, kiwi, tomaat]
