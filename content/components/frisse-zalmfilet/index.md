@@ -52,3 +52,5 @@ presentatie:
 - leg de zalm daarbovenop
 - plaats druppels mierikswortel saus over het geheel en op het bord
 - besprenkel zalm met klein beetje citroensap, zout en peper
+
+1 eetlepel yoghurt, 1 eetlepel mierikwortel, ongeveer helft veldsla, ongeveer vis tbv 4 personen. nienke denkt olijfolie erover. ui moet heel fijn en sterker zuren, geen water bij doen.
