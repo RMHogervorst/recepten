@@ -42,6 +42,8 @@ directions:
 - leg de tartaar daarbovenop
 - breng toefjes truffel mayonaise aan op het bord om de tartaar heen.
 ---
+Gebruik: 
+4,5 ansjovis, 2 bieten, 1 stuk mango uit blik, handje rucola, 4,5 stukjes kroepoek, 8 toefjes truffelmajo
 
 Heerlijke tartaar van rode bieten, ansjovis en mango. Pp een bedje van rucola.
 Geeft een mooie smaaksensatie 
