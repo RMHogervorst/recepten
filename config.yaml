@@ -35,6 +35,8 @@ menu:
     - name: Home
       weight: 1
       url: /
+    - name: "Keuken"
+      url: /cuisine/
     - name: Categorie
       weight: 6
       url: /category/

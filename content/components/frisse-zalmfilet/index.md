@@ -41,12 +41,14 @@ directions:
 - snijd de citroen in stukken en besprenkel de rode ui met citroensap (laat dit voor een tijdje staan)
 - meng 1 deel yoghurt met 1 deel mierikswortel
 - bak de zalm zachtjes 
-- presentatie:
-- maak een bedje van veldsla en aangezuurde ui
-- leg de zalm daarbovenop
-- plaats druppels mierikswortel saus over het geheel en op het bord
-- besprenkel zalm met klein beetje citroensap, zout en peper
+
 ---
 
 Een zalm op een bedje van veldsla met gezuurde ui. 
 Je kunt de saus wat minder scherp maken door meer yoghurt toe te voegen. 
+
+presentatie:
+- maak een bedje van veldsla en aangezuurde ui
+- leg de zalm daarbovenop
+- plaats druppels mierikswortel saus over het geheel en op het bord
+- besprenkel zalm met klein beetje citroensap, zout en peper

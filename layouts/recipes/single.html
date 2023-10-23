@@ -62,15 +62,17 @@
         {{ end }}
       </div>
 
+      {{ with .Params.Directions }}
       <div class="sm-col sm-col-6 lg-col-6 recipeItems">
         <h4 class="blue mt0 mb2 xs-center">Directions</h4>
         <ul itemprop="recipeInstructions">
-          {{ range .Params.Directions }}
+          {{ range . }}
           <li>
             {{ with ( . | markdownify) }}{{ partial "recipe_item.html" . }}{{ end }}</li>
           {{ end }}
         </ul>
       </div>
+      {{ end }}
     </div>
     <!-- end recipe and directions -->
 
@@ -97,33 +99,36 @@
             </svg>
           </a>
         {{ end }}
-
+        
+        {{ with .Params.Ingredienten }}
         <h4 class="blue regular xs-center">Ingredients</h4>
         <ul class="ingredients" itemprop="ingredients">
-          {{ range .Params.Ingredienten }}
+          {{ range . }}
           <li itemprop="ingredienten">
             {{ with ( . | markdownify) }}{{ partial "recipe_item.html" . }}{{ end }}
           </li>
           {{ end }}
 
         </ul>
+        {{ end }}
 
+        {{ with .Params.Directions }}
         <h4 class="blue regular xs-center">Steps</h4>
         <ul itemprop="instructions">
-          {{ range .Params.Directions }}
+          {{ range . }}
           <li>
             {{ with ( . | markdownify) }}{{ partial "recipe_item.html" . }}{{ end }}
           </li>
           {{ end }}
         </ul>
-
       {{ end }}
+
       </div>
     {{ end }}
     </div>
 
     {{ end }}
-
+    {{ end }}
     <!-- end components -->
     <br />
     {{ with .Params.Category }}{{ partial "taxonomy/category" . }}{{ end }}
@@ -132,7 +137,6 @@
     {{ with .Params.Week }}{{ partial "taxonomy/weken" . }}{{ end }}
     {{ with .Params.type_gerecht}} {{ partial "taxonomy/type_gerecht" .}} {{ end}}
     {{ with .Params.sourceURL }} {{partial "sources" . }} {{ end}}
-
 
 
   </article>
