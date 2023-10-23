@@ -6,18 +6,18 @@ draft: false
 title:  "Bloemkool Zoete Aardappel Vegahap"
 image:  recept.jpg
 imagecredit:  by Roel m. Hogervorst 2019-09
-YouTubeID:  # The F2SYDXV1W1w part of https://www.youtube.com/watch?v=F2SYDXV1W1w
-authorName: # Name of the recipe/article author
-authorURL: # URL of their home website
-sourceName: # Name of the source website
-sourceURL: # Actual URL of the recipe itself
+YouTubeID: [] # The F2SYDXV1W1w part of https://www.youtube.com/watch?v=F2SYDXV1W1w
+authorName: [] # Name of the recipe/article author
+authorURL: [] # URL of their home website
+sourceName: [] # Name of the source website
+sourceURL: [] # Actual URL of the recipe itself
 category: dinner
 cuisine: Nederlands # The region associated with your recipe. For example, Italiaans, Mediterraans", or Eigen.
 ingredients:
   - bloemkool
   - zoete aardappel
   - vega burger
-diets:
+diets: []
 tags: # You don't have to have 3, feel free to have 10, 1, or none
   - vegetarisch
 type_gerecht: AVG # AVG, pasta, ovenschotel, soep, curry, wrap, etc.
