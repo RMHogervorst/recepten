@@ -17,7 +17,7 @@ week: x
 
 tags: # You don't have to have 3, feel free to have 10, 1, or none
   - vegetarisch
-  - Picnic
+  - picnic
 type_gerecht: rijst # AVG, pasta, ovenschotel, soep, curry, wrap, etc.
 category: dinner # The type of meal or course your recipe is about. For example: "dinner", "entree", or "dessert".
 cuisine: Indonesisch # The region associated with your recipe. For example, Italiaans, Mediterraans", or Eigen.

@@ -3,7 +3,7 @@ layout: recipe
 date: 2024-11-05T13:48:58+01:00
 draft: false
 title:  "Turkse Pizza Met Aubergine" # The title of your awesome recipe
-image:  # Name of image in recipe bundle
+image:  unnamed.png # Name of image in recipe bundle
 imagecredit:  # URL to image source page, website, or creator
 YouTubeID:  # The F2SYDXV1W1w part of https://www.youtube.com/watch?v=F2SYDXV1W1w
 authorName: # Name of the recipe/article author
@@ -14,7 +14,7 @@ category: dinner # The type of meal or course your recipe is about. For example:
 cuisine: Mediterraans # The region associated with your recipe. For example, Italiaans, Mediterraans", or Eigen.
 ingredients:
   - turkse pizza
-  - aubergines
+  - aubergine
   - ui
   - tomaat
   - sumak
@@ -22,6 +22,7 @@ ingredients:
   - wijnazijn
 tags: # You don't have to have 3, feel free to have 10, 1, or none
   - vegetarisch
+  - picnic
 type_gerecht: wrap # AVG, pasta, ovenschotel, soep, curry, wrap, etc.
 diets: # add diets
 week: x

@@ -15,7 +15,7 @@ cuisine: Italiaans # The region associated with your recipe. For example, Italia
 
 tags: # You don't have to have 3, feel free to have 10, 1, or none
   - vegetarisch
-  - Picnic
+  - picnic
 type_gerecht: # AVG, pasta, ovenschotel, soep, curry, wrap, etc.
 diets: # add diets
 week: x
