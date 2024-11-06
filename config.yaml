@@ -32,23 +32,29 @@ params:
 
 menu:
   main:
-    - name: Home
+    - name: "[oventijden]"
       weight: 1
+      url: /overig/oventijden/
+    - name: Home
+      weight: 2
       url: /
-    - name: "Keuken"
+    - name: "keuken"
       url: /cuisine/
-    - name: Categorie
+    - name: categorie
       weight: 6
       url: /category/
-    - name: Type gerecht
+    - name: type gerecht
       weight: 2
       url: /type_gerecht/
-    - name: Tags
+    - name: tags
       weight: 4
       url: /tags/
-    - name: Ingredienten
-      weight: 1
+    - name: ingredienten
+      weight: 3
       url: /ingredients/
+    - name: Lijst
+      weight: 2
+      url: /recipes/
 
 taxonomies:
   category: category
