@@ -52,3 +52,7 @@ In elk recept staan:
 - type_gerecht:  AVG, pasta, ovenschotel, soep, curry, wrap, etc.
 
 De ingredients en directions worden getoond in aanvink blokjes
+
+Rstudio blogdown kan verschillende github versies van hugo installeren. run met die versie
+
+`~/.local/share/Hugo/0.108.0/hugo serve`
