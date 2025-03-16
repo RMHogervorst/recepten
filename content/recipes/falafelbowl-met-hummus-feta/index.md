@@ -24,7 +24,8 @@ ingredients:
 tags: # You don't have to have 3, feel free to have 10, 1, or none
   - vegetarisch
   - picnic
-type_gerecht: bowl # AVG, pasta, ovenschotel, soep, curry, wrap, etc.
+  - bowl
+type_gerecht: rijst # AVG, pasta, ovenschotel, soep, curry, wrap, etc.
 diets: # add diets
 week: x
 

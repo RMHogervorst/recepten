@@ -62,19 +62,13 @@ ingredienten:
 
 directions:
 - Verwarm de oven voor op 180 graden en bak 10 pitabroodjes af volgens de aanwijzingen op de verpakking.
-- Giet 400 g kikkererwten inclusief vocht in een kom, en voeg 1 el olijfolie, 3 el tahini en 1 el citroensap toe. Pureer de ingrediënten met een staafmixer tot een gladde hummus en breng op smaak met peper en zout. Zet opzij.
-
-Stap 3
-
-Pel 1 teentje knoflook en 1 ui, en snij fijn. Snij 400 g kastanjechampignons in plakjes. Verhit vervolgens 1 el olijfolie in een koekenpan en fruit de ui en de knoflook hierin aan. Voeg de kastanjechampignons en 50 g amandelen toe en bak deze 5 minuten mee. Blus ten slotte af met 2 eetlepels sojasaus. Roer goed door en zet opzij.
-
-Stap 4
-
-Verhit 2 el olijfolie in een andere koekenpan en bak hierin 320 g vega kipstukjes 4 minuten op middelhoge temperatuur.
-
-Stap 5
-
-Beleg de pita's met de hummus, het champignonmengsel, de vega kipstukjes en wat verse korianderblaadjes. Serveer eventueel nog met een partje citroen.
+- Giet 400 g kikkererwten inclusief vocht in een kom, en voeg 1 el olijfolie, 3 el tahini en 1 el citroensap toe. 
+- Pureer de ingrediënten met een staafmixer tot een gladde hummus en breng op smaak met peper en zout. Zet opzij.
+- Pel 1 teentje knoflook en 1 ui, en snij fijn. 
+- Snij 400 g kastanjechampignons in plakjes. 
+- Verhit vervolgens 1 el olijfolie in een koekenpan en fruit de ui en de knoflook hierin aan. Voeg de kastanjechampignons en 50 g amandelen toe en bak deze 5 minuten mee. Blus ten slotte af met 2 eetlepels sojasaus. Roer goed door en zet opzij.
+- Verhit 2 el olijfolie in een andere koekenpan en bak hierin 320 g vega kipstukjes 4 minuten op middelhoge temperatuur.
+- Beleg de pita's met de hummus, het champignonmengsel, de vega kipstukjes en wat verse korianderblaadjes. Serveer eventueel nog met een partje citroen.
 ---
 
 In dit gerecht maak je de hummus from scratch, maar je kunt ook hummus kopen.

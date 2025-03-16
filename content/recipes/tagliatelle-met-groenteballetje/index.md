@@ -3,7 +3,7 @@ layout: recipe
 date: 2025-03-16T09:17:47+01:00
 draft: false
 title:  "Tagliatelle met groenteballetjes" # The title of your awesome recipe
-image:  tagliatelle-met-groenteballetje/tagliatelle-met-groenteballetjes.png # Name of image in recipe bundle
+image:  tagliatelle-met-groenteballetjes.png # Name of image in recipe bundle
 imagecredit:  # URL to image source page, website, or creator
 YouTubeID:  # The F2SYDXV1W1w part of https://www.youtube.com/watch?v=F2SYDXV1W1w
 authorName: # Name of the recipe/article author
