@@ -60,7 +60,7 @@ ingredienten:
 directions:
 - Kook 300 g zilvervliesrijst volgens de aanwijzingen op de verpakking gaar.
 - Snij 1 bosje radijsjes in plakjes en doe in een kommetje. Breng 50 ml water met 50 ml azijn en 1 el suiker aan de kook. Laat de suiker al roerende oplossen en schenk over de radijsjes heen. Laat de radijsjes 10 minuten staan.
--Schil 1 mango, snij het vruchtvlees van de pit en snij in blokjes. Halveer 2 baby-avocado’s, verwijder de pit, schep het vruchtvlees uit de schil en snij in reepjes. Schil 1 komkommer, halveer in de lengte en snij in plakjes. Giet de radijsjes af.
+- Schil 1 mango, snij het vruchtvlees van de pit en snij in blokjes. Halveer 2 baby-avocado’s, verwijder de pit, schep het vruchtvlees uit de schil en snij in reepjes. Schil 1 komkommer, halveer in de lengte en snij in plakjes. Giet de radijsjes af.
 - Verhit 2 el olie in een koekenpan en bak vegan vissticks in 10 minuten rondom gaar.
 - Roer 2 el teriyakisaus door 4 el mayonaise heen. Verdeel de rijst, radijsjes, vissticks, komkommer, mango, avocado en sojabonen over 4 kommen. Schep de teriyaki-mayo eroverheen.
 
